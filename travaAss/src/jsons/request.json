@@ -1,0 +1,21 @@
+{
+	"firstName": "RamReddy",
+	"city": "New York",
+	"deals": 12,
+	"message": "This customer is available at",
+	"address": [
+		{
+			"streetAddress": "21 2nd Street",
+			"city": "New York",
+			"state": "NY",
+			"postalCode": "10021"
+		}
+	],
+	"availableDate": "Monday,july,22nd,2021",
+	"time": "9:00 am - 2:00 pm",
+	"price": "$80",
+	"phoneNumber": 9966061044,
+	"pending":"10:22 am,12/01/2019",
+	"upcoming_service":"11:25 am,12/01/2019",
+	"pending_time":"09:10 am,12/01/2019"
+}
